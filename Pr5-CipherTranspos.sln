@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr5-CipherTranspos", "Pr5-CipherTranspos\Pr5-CipherTranspos.csproj", "{DE627209-0CB9-4AA7-9FFD-065312AF97BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE627209-0CB9-4AA7-9FFD-065312AF97BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE627209-0CB9-4AA7-9FFD-065312AF97BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE627209-0CB9-4AA7-9FFD-065312AF97BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE627209-0CB9-4AA7-9FFD-065312AF97BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4533A1CE-2D5D-41DA-AC87-ED0944CE5AB3}
+	EndGlobalSection
+EndGlobal
